@@ -1,6 +1,6 @@
 ﻿  naiProjekt.cpp
-f:\documents\visualstudioprojects\c#\naicpp\naiprojekt\naiprojekt\naiprojekt.cpp(36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
 f:\documents\visualstudioprojects\c#\naicpp\naiprojekt\naiprojekt\naiprojekt.cpp(44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-f:\documents\visualstudioprojects\c#\naicpp\naiprojekt\naiprojekt\naiprojekt.cpp(123): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-f:\documents\visualstudioprojects\c#\naicpp\naiprojekt\naiprojekt\naiprojekt.cpp(124): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\documents\visualstudioprojects\c#\naicpp\naiprojekt\naiprojekt\naiprojekt.cpp(50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+f:\documents\visualstudioprojects\c#\naicpp\naiprojekt\naiprojekt\naiprojekt.cpp(131): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\documents\visualstudioprojects\c#\naicpp\naiprojekt\naiprojekt\naiprojekt.cpp(132): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
   naiProjekt.vcxproj -> F:\Documents\VisualStudioProjects\C#\NAICpp\naiProjekt\x64\Debug\naiProjekt.exe
